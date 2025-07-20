@@ -153,12 +153,8 @@ You can plug in **Ollama (Gemma 3B or similar)** to semantically identify job ca
 
 ## 👨‍💻 Author
 
-Made with ❤️ by [Your Name]  
-Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-LinkedIn: [yourprofile](https://linkedin.com/in/yourprofile)
+Made with ❤️ by [Nickhil verma]  
 
 ---
 
-## 📄 License
 
-MIT License — free to use and modify. Attribution appreciated.
