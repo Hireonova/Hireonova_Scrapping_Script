@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+fake-useragent
+pydantic
+termcolor
+selenium
+webdriver-manager
+undetected-chromedriver
